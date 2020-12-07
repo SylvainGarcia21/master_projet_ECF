@@ -93,7 +93,7 @@
 
             </div>
         </fieldset>
-        <a href="file:///C:/Users/pcperso/Documents/ProjetENI01/pageshtml/listedesencheres.html"><button type="submit" class="btn btn-primary mb-2">Rehercher (passe par doget et renvoi vers listedes enchères)</button></a>
+   
     </div>
     
        
